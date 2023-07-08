@@ -1,0 +1,2 @@
+18 khurram fee_defaulter
+10 uni_cr fee_defaulter

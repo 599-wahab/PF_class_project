@@ -1,0 +1,6 @@
+13 Abdulwahab 3246 sialkot 13@umt.com 3.6 1
+12 Ali 3241 lahore 12@umt.com 3.5 1
+14 samera 3245 sialkot 14@umt.com 3.6 1
+11 Non_uni_1 359 sialkot 11@umt.com 3.6 1
+9 sehar 345 sialkot 9@umt.com 3.4 1
+8 Ni 324 sialkot 8@umt.com 3.6 1
